@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-	double Pi = 4 * atan(1.);
+	double Pi = 4 * atan(1.);//Число П
 
 	double x;
 	double z1;
